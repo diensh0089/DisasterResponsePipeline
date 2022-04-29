@@ -48,8 +48,6 @@ Run the following commands in the project's root directory to set up your databa
 
 Go to http://0.0.0.0:3001/
 
-Go to http://0.0.0.0:3001/
-
 # Licensing, Authors, Acknowledgements
 Many thanks to Figure-8 for making this available to Udacity for training purposes. Special thanks to udacity for the training. Feel free to utilize the contents of this while citing me, udacity, and/or figure-8 accordingly.
 
