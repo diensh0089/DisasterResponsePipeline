@@ -19,13 +19,6 @@ Finally, this project contains a web app where you can input a message and get c
           |-- models
                 |-- classifier.pkl
                 |-- train_classifier.py
-          |-- Preparation
-                |-- categories.csv
-                |-- ETL Pipeline Preparation.ipynb
-                |-- ETL_Preparation.db
-                |-- messages.csv
-                |-- ML Pipeline Preparation.ipynb
-                |-- README
           |-- README
 # Installation
 Must runing with Python 3 with libraries of numpy, pandas, sqlalchemy, re, NLTK, pickle, Sklearn, plotly and flask libraries.
