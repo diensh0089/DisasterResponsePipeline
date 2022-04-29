@@ -5,9 +5,6 @@ In this project, we will build a model to classify messages that are sent during
 
 Finally, this project contains a web app where you can input a message and get classification results.
 
-Screenshot of Web App
-
-File Description
         disaster_response_pipeline
           |-- app
                 |-- templates
@@ -30,16 +27,16 @@ File Description
                 |-- ML Pipeline Preparation.ipynb
                 |-- README
           |-- README
-Installation
+# Installation
 Must runing with Python 3 with libraries of numpy, pandas, sqlalchemy, re, NLTK, pickle, Sklearn, plotly and flask libraries.
 
-File Descriptions
+# File Descriptions
 App folder including the templates folder and "run.py" for the web application
 Data folder containing "DisasterResponse.db", "disaster_categories.csv", "disaster_messages.csv" and "process_data.py" for data cleaning and transfering.
 Models folder including "classifier.pkl" and "train_classifier.py" for the Machine Learning model.
-README file
+# README file
 Preparation folder containing 6 different files, which were used for the project building. (Please note: this folder is not necessary for this project to run.)
-Instructions
+# Instructions
 Run the following commands in the project's root directory to set up your database and model.
 
 To run ETL pipeline that cleans data and stores in database python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
@@ -48,7 +45,7 @@ Run the following command in the app's directory to run your web app. python run
 
 Go to http://0.0.0.0:3001/
 
-Licensing, Authors, Acknowledgements
+# Licensing, Authors, Acknowledgements
 Many thanks to Figure-8 for making this available to Udacity for training purposes. Special thanks to udacity for the training. Feel free to utilize the contents of this while citing me, udacity, and/or figure-8 accordingly.
 
 NOTICE: Preparation folder is not necessary for this project to run.
